@@ -14,7 +14,7 @@ I am a student at [UNICAP](https://portal.unicap.br/),a private, philanthropic, 
 
 
 * 🌍  I'm based in Pernambuco, Brazil
-* ✉️  You can contact me at [cauasebastian22207@gmail.com](mailto:cauasebastian22207@gmail.com)
+* ✉️  You can contact me at [cauasebastian22207@gmail.com](mailto:cauasebastian2207@gmail.com)
 * 🚀  I'm currently searching for job or stage on companies as a Full Stack Software Developer
 * 🧠  I'm currently learning Unit Tests and advanced react
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
