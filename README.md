@@ -1,9 +1,11 @@
 Hi 👋 My name is Cauã Sebastian
 ==========================
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/cauã-sebastian-57a532259)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/your_username/)](https://leetcode.com/caua_sebastian/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/your_username/)](https://www.instagram.com/caua_sebastian/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-purple?style=flat-square&logo=Internet-Explorer&logoColor=white&link=https://cauasebastian.github.io/my-portfolio/)](https://cauasebastian.github.io/my-portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauã-sebastian-57a532259/)](https://www.linkedin.com/in/cauã-sebastian-57a532259/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/caua_sebastian/)](https://leetcode.com/caua_sebastian/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/caua_sebastian/)](https://www.instagram.com/caua_sebastian/)
+
 
    
 ## About me:
@@ -14,7 +16,7 @@ I am a student at [UNICAP](https://portal.unicap.br/),a private, philanthropic, 
 
 
 * 🌍  I'm based in Pernambuco, Brazil
-* ✉️  You can contact me at [cauasebastian22207@gmail.com](mailto:cauasebastian2207@gmail.com)
+* ✉️  You can contact me at [cauasebastiann@gmail.com](mailto:cauasebastiann@gmail.com)
 * 🚀  I'm currently searching for job or stage on companies as a Full Stack Software Developer
 * 🧠  I'm currently learning Unit Tests and advanced react
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
