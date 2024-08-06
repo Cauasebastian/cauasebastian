@@ -18,7 +18,7 @@ I am a student at [UNICAP](https://portal.unicap.br/),a private, philanthropic, 
 * 🌍  I'm based in Pernambuco, Brazil
 * ✉️  You can contact me at [cauasebastiann@gmail.com](mailto:cauasebastiann@gmail.com)
 * 🚀  I'm currently searching for job or stage on companies as a Full Stack Software Developer
-* 🧠  I am currently learning CI/CD and Kafka.
+* 🧠  I am currently learning CI/CD and Kubernetes.
 * 🤝  I'm open to collaborating on projects that have impact in peoples lives
 * ⚡  I love sports and my favorite is Jiu-Jitsu
 
