@@ -4,7 +4,6 @@ Hi 👋 My name is Cauã Sebastian
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-purple?style=flat-square&logo=Internet-Explorer&logoColor=white&link=https://cauasebastian.github.io/my-portfolio/)](https://cauasebastian.github.io/my-portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauã-sebastian-57a532259/)](https://www.linkedin.com/in/cauã-sebastian-57a532259/)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/caua_sebastian/)](https://leetcode.com/caua_sebastian/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/caua_sebastian/)](https://www.instagram.com/caua_sebastian/)
 
 
    
@@ -33,9 +32,15 @@ I am a student at [UNICAP](https://portal.unicap.br/),a private, philanthropic, 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-916af7?style=for-the-badge&logo=c-sharp&logoColor=white" style="transform: scale(2.5);"/>   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-da0b85?style=for-the-badge&logo=flutter&logoColor=white"/>
+
 </p>
+
+
+
+
 
 
 ### Database:
@@ -50,9 +55,11 @@ I am a student at [UNICAP](https://portal.unicap.br/),a private, philanthropic, 
  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
  <img align="center" alt="jUnit" src="https://img.shields.io/badge/jUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFA500?style=for-the-badge&logo=amazonaws&logoColor=white"/>
- <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
- <img align="center" alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+ <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
 </p>
-
+<p align="left">
+<img align="center" alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+</p>
 
 
